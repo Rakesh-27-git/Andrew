@@ -5,7 +5,7 @@ MeetAI is a full-stack AI meeting platform that runs realtime voice sessions wit
 It supports authenticated workspaces, reusable AI agents, live video sessions, transcript processing, and post-meeting chat on top of the generated summary. We have payment integration with Polar(in sandbox mode in the current configuration) to demonstrate subscription management, but the core meeting assistant features do not require an active subscription to function.
 
 ## Deployed URL
-[meetai.jeetdas.site](https://meetai.jeetdas.site)
+[https://andrew-rouge-xi.vercel.app/](https://andrew-rouge-xi.vercel.app/)
 
 ## Table of Contents
 
@@ -287,4 +287,4 @@ Pipeline:
 - If summaries are not generated, verify Inngest dev/prod setup and `OPENAI_API_KEY`.
 - If post-meeting chat does not respond, verify Stream Chat credentials and meeting status is `completed`.
 
-Built with ❤️ by Jeet Das.
+Built with ❤️ by Rakesh.

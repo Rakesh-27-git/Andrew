@@ -433,9 +433,9 @@ export const HomeView = () => {
         </p>
         <p className="text-center text-sm text-muted-foreground">
           Made with ❤️ by{" "}
-          <a href="https://github.com/JeetDas5">
+          <a href="https://github.com/Rakesh-27-git">
             {" "}
-            <span className="text-primary">Jeet Das</span>
+            <span className="text-primary">Rakesh</span>
           </a>
         </p>
       </footer>
